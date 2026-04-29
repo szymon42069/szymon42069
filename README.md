@@ -16,7 +16,7 @@ education: Full-time
 learning_path: Medicine, Computer science maybe?
   [
     "Self-Taught Video editor and Designer",
-    "GCSEs: Ten subjects (4 at grade 8, 3 at grade 7, 2 at grade 6, 2 at grade 5)",
+    "GCSEs: Ten subjects from grades 8-6",
     "A-levels: Biology (A), Mathematics (A*), Economics (A*), EPQ (A*)",
     "Self-studying: Chemistry (A-level)",
   ]
