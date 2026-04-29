@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ### 🚀 Some Tools I Have Used and Learned
 
@@ -7,6 +6,9 @@
     <img src="https://skillicons.dev/icons?i=pr,ps,ae,linux,js,python,aws,flask,html,discord,css,blender,bash,vim,flutter,figma&perline=8&theme=light" />
   </a>
 </p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 ### 👨‍💻 A Little Bit About Me and My Interests
 
