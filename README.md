@@ -7,7 +7,7 @@
   </a>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=szymon42069&show_icons=true&theme=radical)
 
 
 ### 👨‍💻 A Little Bit About Me and My Interests
