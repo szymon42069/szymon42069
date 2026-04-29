@@ -56,7 +56,7 @@ technical_background:
     "Macroeconomics: LRAS, government failure & taxpayer burden",
   ]
 
-currently_learning: ["Chemistry (Self-study)", "Python for Data Science", "React Native", "Docker"]
+currently_learning: ["Chemistry (Self-study)", "Python for Data Science", "Docker"]
 
 2026 Goals: ["Secure University Medicine/CS placement", "Publish EPQ findings", "Build a metabolic health app"]
 
