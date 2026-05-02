@@ -58,9 +58,9 @@ technical_background:
 
 currently_learning: ["Chemistry (Self-study)", "Python for Data Science", "Docker"]
 
-2026 Goals: ["Secure University Medicine/CS placement", "Publish EPQ findings", "Build a metabolic health app"]
+2026_goals: ["Secure University Medicine/CS placement", "Publish EPQ findings", "Build a metabolic health app"]
 
-2027 Goals: ["Secure University Medicine/CS placement"]
+2027_goals: ["Secure University Medicine/CS placement"]
 
 hobbies: 
   [
@@ -68,6 +68,9 @@ hobbies:
     "Jiu-Jitsu",
     "Swimming: National Gold Medalist (Self-taught)",
     "Skateboarding",
+    "Ice-skating"
+    "Roller-skating"
+    "Gym"
     "Cinema",
     "Digital Art & Design",
     "Video Editing: Making edits on After Effects and Premiere Pro",
